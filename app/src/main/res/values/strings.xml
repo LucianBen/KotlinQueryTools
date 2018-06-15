@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">KotlinDemo</string>
+
+    <string name="ji">忌</string>
+    <string name="yi">宜</string>
+    <string name="nongli">农历</string>
+    <string name="xingzuo">星座</string>
+    <string name="xingzuo_detail">星座：%1$s</string>
+    <string name="nayin">纳音</string>
+    <string name="nayin_detail">纳音\t\t\t\t\t\t%1$s</string>
+    <string name="shengxiao">生肖</string>
+    <string name="shengxiao_detail">生肖：%1$s</string>
+    <string name="shen12">十二神</string>
+    <string name="shen12_detail">十二神\t\t\t\t%1$s</string>
+    <string name="zhiri">值日</string>
+    <string name="zhiri_detail">值日\t\t\t\t\t\t%1$s</string>
+    <string name="chongsha">冲煞</string>
+    <string name="chongsha_detail">冲煞\t\t\t\t\t\t%1$s</string>
+    <string name="taishen">胎神吉方</string>
+    <string name="taishen_detail">胎神吉方\t\t%1$s</string>
+    <string name="jishen">吉神宜趋</string>
+    <string name="jishen_detail">吉神宜趋\t\t%1$s</string>
+    <string name="pengzhu">彭祖百忌</string>
+    <string name="pengzhu_detail">彭祖百忌\t\t%1$s</string>
+    <string name="hehai">今日合害</string>
+    <string name="hehai_detail">\t%1$s</string>
+    <string name="ganzhi">干支</string>
+    <string name="jieri">节日</string>
+    <string name="jieqi">节气</string>
+
+    <string name="have_no_data">暂无数据</string>
+    <string name="oneiromancy_search_keyword">请输入关键字</string>
+    <string name="more">点击查看更多</string>
+    <string name="close">关闭</string>
+
+    <string name="constellation_today">今日%1$s运势</string>
+    <string name="choose_constellation">选择星座</string>
+    <string name="tomorrow">明日运势</string>
+    <string name="week">本周运势</string>
+    <string name="month">本月运势</string>
+    <string name="year">本年运势</string>
+    <string name="show">显示</string>
+    <string name="hide">隐藏</string>
+    <string name="read">查看</string>
+
+</resources>
